@@ -1,0 +1,14 @@
+.logos:before {             
+  content: "";           
+  display: inline-block; 
+  width: 1em;            
+  height: 1em;           
+  background-size: 100% 100%;     
+  vertical-align: middle;
+}
+
+{{#logos}}
+.logos-{{.}}:before {
+  background-image: url('/public/logos/{{.}}.svg');
+}
+{{/logos}}

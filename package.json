@@ -13,5 +13,8 @@
   "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/teamguideio/logos/issues"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.3"
   }
 }
