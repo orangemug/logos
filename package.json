@@ -1,0 +1,17 @@
+{
+  "name": "logos",
+  "version": "0.0.0",
+  "description": "A collection of 600+ svg vector logos.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamguideio/logos.git"
+  },
+  "keywords": [
+    "logos"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamguideio/logos/issues"
+  }
+}
