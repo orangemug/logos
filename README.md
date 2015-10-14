@@ -2,7 +2,7 @@
 This is a fork of the amazing <https://github.com/gilbarbara/logos>, which adds
 
  * `package.json` to make it npm installable
- * css so you can treat it like an icon set (see <css/logos.css>)
+ * css so you can treat it like an icon set (see [css/logos.css](css/logos.css))
 
 A collection of 600+ svg vector logos. The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc). Almost 100 logos were recreated from rastered images #vectorized.
 
