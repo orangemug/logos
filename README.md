@@ -1,5 +1,5 @@
 # logos
-This is a fork of the amazing <https://github.com/gilbarbara/logos>, which adds
+This is a fork of the amazing [gilbarbara/logos](https://github.com/gilbarbara/logos), which adds
 
  * `package.json` to make it npm installable
  * css so you can treat it like an icon set (see [css/logos.css](css/logos.css))
